@@ -7,7 +7,3 @@ OBS: baixar os arquivos Cidades.json e Estados.json do link (https://github.com/
 3 - imprimir no console os cinco estados que mais possuem cidade com a UF e a quantidade<br>
 
 
-Link de acesso
-```
-
-```
